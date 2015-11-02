@@ -1,0 +1,13 @@
+== README
+
+Want to style up the Calendar
+
+You may have to create a new booking space / by clicking on the orange button / enter a name / then creating a new booking
+
+The calendar needs some styling for mobile and descktop viewing. 
+
+Example: https://youcanbook.me/demos/
+
+Feel free to email me about any questions.
+
+<tt>rake doc:app</tt>.
